@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\毕业设计相关\ScoreManagementSystem1.0\ScoreManagementSystem1.0\bin\Debug\ScoreManagementSystem1.0.exe
+C:\Users\Administrator\Desktop\毕业设计相关\ScoreManagementSystem1.0\ScoreManagementSystem1.0\bin\Debug\ScoreManagementSystem1.0.pdb
+C:\Users\Administrator\Desktop\毕业设计相关\ScoreManagementSystem1.0\ScoreManagementSystem1.0\obj\x86\Debug\ScoreManagementSystem1._0.Form1.resources
+C:\Users\Administrator\Desktop\毕业设计相关\ScoreManagementSystem1.0\ScoreManagementSystem1.0\obj\x86\Debug\ScoreManagementSystem1._0.Properties.Resources.resources
+C:\Users\Administrator\Desktop\毕业设计相关\ScoreManagementSystem1.0\ScoreManagementSystem1.0\obj\x86\Debug\ScoreManagementSystem1.0.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\毕业设计相关\ScoreManagementSystem1.0\ScoreManagementSystem1.0\obj\x86\Debug\ScoreManagementSystem1.0.exe
+C:\Users\Administrator\Desktop\毕业设计相关\ScoreManagementSystem1.0\ScoreManagementSystem1.0\obj\x86\Debug\ScoreManagementSystem1.0.pdb
+C:\Users\Administrator\Desktop\毕业设计相关\ScoreManagementSystem1.0\ScoreManagementSystem1.0\obj\x86\Debug\ScoreManagementSystem1.0.csprojResolveAssemblyReference.cache
